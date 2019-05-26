@@ -1,4 +1,4 @@
-const newDriver = {};
+const driver = {};
 
 function updateDriverWithKeyAndValue(obj, key, value) {
   newDriver = Object.assign({}, obj);
